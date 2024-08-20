@@ -1,4 +1,4 @@
-# Software Testing Projects by Poresh Raut ues
+# Software Testing Projects by Poresh Raut
 
 Welcome to my portfolio of live software testing projects. As a seasoned **Manual Tester** and an aspiring **Automation Tester**, I have successfully executed various projects using a wide array of testing tools and methodologies. This repository showcases the projects I've completed, each detailed with comprehensive STLC (Software Testing Life Cycle) templates and documents.
 
